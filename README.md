@@ -27,16 +27,13 @@ Premium dark-themed technology services website for **TechFix Solutions Malawi**
 2. Ensure the `database/data/` directory is writable by the web server.
 3. Open the site in a browser.
 4. Admin panel: `/admin/login.php`
-   - Default username: `admin`
-   - Default password: `techfix2024`
    - **Change the password** in `admin/login.php` before going live.
 
 ## Contact Numbers Used
 
-- +265 996 942 109
 - +265 883 924 080
 
-WhatsApp links use +265 996 942 109.
+WhatsApp links use +265 883 924 080.
 
 ## Notes
 
